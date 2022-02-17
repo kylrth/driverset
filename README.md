@@ -8,6 +8,7 @@ Go to [Releases](https://github.com/kylrth/driverset/releases) and download the 
 
 ```sh
 wget 'https://github.com/kylrth/driverset/releases/download/v1.0.0/driverset-amd64' -O - | sudo tee /usr/bin/driverset > /dev/null
+sudo chmod +x /usr/bin/driverset
 ```
 
 ## usage
